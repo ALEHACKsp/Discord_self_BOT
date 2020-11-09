@@ -1,6 +1,8 @@
-# c_selfbot
- the discord selfbot i made while i was bored and had nothing to do
- 
- made using Anarchy discord api wrapper by iLinked1337 (https://www.youtube.com/channel/UC1U6kVsR7sKirJOERViCUbg) in C#
- 
- do not mind the c thing, i just like the way it looks
+# Discord self BOT
+It was literally made by boredom :(
+
+this incredibly useless thing was created in the C # library 
+
+# How to get the discord token?
+
+Press Ctrl + shift + i go to Network, then after type (/api) in the filter space, go to science, then header and copy the value of "authorization:"
